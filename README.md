@@ -1,1 +1,1 @@
-# Gwangjin-Bigdata-Competition
+# 2024 관세청 공공데이터 활용/분석 경진대회
