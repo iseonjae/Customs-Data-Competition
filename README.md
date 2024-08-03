@@ -19,4 +19,7 @@ vgg19를 활용한 의류 HS Code 자동 분류 시스템
 | 동국대학교 | 통계학과 | 성지수 |
 | 동국대학교 | 통계학과 | 이선재 |
 
-
+## 파이프라인
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01e45812-251c-408d-8724-7105e324757c](https://github.com/user-attachments/assets/12f03d8e-2aca-4401-a1a1-edb26553ab0c">
+</p>
